@@ -71,3 +71,4 @@ board[3][3], board[3][4], board[4][3], board[4][4] = white,black,black,white
 print_board()
 print(flipable(3,2,1))
 print_board()
+print('end')
