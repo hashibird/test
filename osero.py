@@ -72,3 +72,7 @@ print_board()
 print(flipable(3,2,1))
 print_board()
 print('end')
+
+
+
+
